@@ -8,6 +8,7 @@
 
 ## 目录
 - [官方文档](#官方文档)
+- [引擎相关](#引擎相关)
 - [运营相关](#运营相关)
 
 ## 官方文档
@@ -15,6 +16,10 @@
 - [小游戏开发指南](https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/develop/guide/know)
 - [Wasm分包](https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/develop/guide/game-engine/rd-to-SCgame/open-capacity/performance-optimization/start-up/code-upload/sc_webgl_split)
 - [StarkSDK Unity文档](https://bytedance.larkoffice.com/docx/doxcnTom4J47auHMnkjGYMBaNnZ)
+
+## 引擎相关
+- [Cocos发布](https://docs.cocos.com/creator/3.8/manual/zh/editor/publish/publish-bytedance-mini-game.html)
+  怎么在Cocos上发布抖音小游戏
 
 ## 运营相关
 
