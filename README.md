@@ -16,6 +16,7 @@
 - [小游戏开发指南](https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/develop/guide/know)
 - [Wasm分包](https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/develop/guide/game-engine/rd-to-SCgame/open-capacity/performance-optimization/start-up/code-upload/sc_webgl_split)
 - [StarkSDK Unity文档](https://bytedance.larkoffice.com/docx/doxcnTom4J47auHMnkjGYMBaNnZ)
+- [微信小游戏内容介绍](https://developers.weixin.qq.com/community/minigame/doc/00084ac5c44718721290cdfe469401)
 
 ## 引擎相关
 - [Cocos发布](https://docs.cocos.com/creator/3.8/manual/zh/editor/publish/publish-bytedance-mini-game.html)
